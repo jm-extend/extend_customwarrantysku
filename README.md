@@ -8,3 +8,6 @@ in this example, EXTEND-<WARRANTY_ID_FROM_API>-<PRICE_RANGE>
 # Installation 
 - copy the Extend/ folder in your app/code folder
 - or use git to import and generate the files
+
+
+PLEASE NOTE : This add-on only works for the legacy version of our module, called Extend_Warranty, and the sku is WARRANTY-1
